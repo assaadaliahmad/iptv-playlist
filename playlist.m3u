@@ -3,5 +3,8 @@
 #EXTINF:-1 tvg-id="RedTV" tvg-name="Red TV" group-title="Live TV",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 
-#EXTINF:-2 tvg-id="GitHubPlaylist" tvg-name="My IPTV Playlist" group-title="GitHub",GitHub Playlist
+#EXTINF:-1 tvg-id="Mono391" tvg-name="Channel 391" group-title="Live TV",Channel 391
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="GitHubPlaylist" tvg-name="My IPTV Playlist" group-title="GitHub",GitHub Playlist
 https://raw.githubusercontent.com/assaadaliahmad/iptv-playlist/bc4c898937e7907553e8ae1a9d031bc22ec1f610/playlist.m3u
