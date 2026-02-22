@@ -1,4 +1,4 @@
-7#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="RedTV" tvg-name="Red TV" group-title="Live TV",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
