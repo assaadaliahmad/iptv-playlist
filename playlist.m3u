@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="RedTV" tvg-name="Red TV" group-title="Live TV",Red TV
-https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mono391" tvg-name="Channel 391" group-title="Live TV",Channel 391
-http://185.9.2.18/chid_391/mono.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",URI="https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/manifest/audio1/192kbps/audio.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2592000,RESOLUTION=1920x1080,AUDIO="audio"
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/manifest/video/1080p2400kbps/video.m3u8
