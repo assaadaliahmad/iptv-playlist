@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Lebanon" group-title="Live TV", MTV Lebanon (1080p)
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
