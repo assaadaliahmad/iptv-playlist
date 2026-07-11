@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",URI="http://xydfr67.xyz/live/317f17d480/c060545dd8/4215.ts"
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080,AUDIO="audio"
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/manifest/video/1080p2400kbps/video.m3u8
