@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aljadeed.tv/images/logo.png" group-title="Liban",Al Jadeed TV
-https://live.kwikmotion.com/newtvlive/jadeed.smil/aljadeedpublish/aljadeed_source/hdntl=exp=1783878657~acl=%2fnewtvlive%2fjadeed.smil%2f*~data=hdntl~hmac=ff556adaa869e2af0ad156fd517b42a0f1de0708961e85f7197dfe32e53708d4/chunks.m3u8|Referer=https://www.aljadeed.tv/live
+#EXTVLCOPT:http-referrer=https://www.aljadeed.tv/live
+https://live.kwikmotion.com/newtvlive/jadeed.smil/aljadeedpublish/aljadeed_source/hdntl=exp=1783878657~acl=%2fnewtvlive%2fjadeed.smil%2f*~data=hdntl~hmac=ff556adaa869e2af0ad156fd517b42a0f1de0708961e85f7197dfe32e53708d4/chunks.m3u8
