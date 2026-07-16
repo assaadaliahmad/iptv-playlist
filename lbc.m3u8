@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lbcgroup.tv/images/logo.png" group-title="Liban",LBC Drama
-https://live.kwikmotion.com/lbcdramalive/drama/lbcdramapublish/lb2_source/chunks.m3u8|Referer=https://www.lbcgroup.tv/
+#EXTVLCOPT:http-referrer=https://www.lbcgroup.tv/
+#EXTVLCOPT:http-origin=https://www.lbcgroup.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.kwikmotion.com/lbcdramalive/drama/lbcdramapublish/lb2_source/chunks.m3u8
