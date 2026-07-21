@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1,Stream 1
+http://185.9.2.18/chid_1/mpegts
+#EXTINF:-1,Stream 10
+http://185.9.2.18/chid_10/mpegts
+#EXTINF:-1,Stream 27
+http://185.9.2.18/chid_27/mpegts
+#EXTINF:-1,Stream 139
+http://185.9.2.18/chid_139/mpegts
+#EXTINF:-1,Stream 144
+http://185.9.2.18/chid_144/mpegts
+#EXTINF:-1,Stream 146
+http://185.9.2.18/chid_146/mpegts
+#EXTINF:-1,Stream 189
+http://185.9.2.18/chid_189/mpegts
+#EXTINF:-1,Stream 205
+http://185.9.2.18/chid_205/mpegts
+#EXTINF:-1,Stream 218
+http://185.9.2.18/chid_218/mpegts
+#EXTINF:-1,Stream 247
+http://185.9.2.18/chid_247/mpegts
+#EXTINF:-1,Stream 282
+http://185.9.2.18/chid_282/mpegts
+#EXTINF:-1,Stream 283
+http://185.9.2.18/chid_283/mpegts
+#EXTINF:-1,Stream 285
+http://185.9.2.18/chid_285/mpegts
+#EXTINF:-1,Stream 286
+http://185.9.2.18/chid_286/mpegts
+#EXTINF:-1,Stream 288
+http://185.9.2.18/chid_288/mpegts
+#EXTINF:-1,Stream 290
+http://185.9.2.18/chid_290/mpegts
+#EXTINF:-1,Stream 299
+http://185.9.2.18/chid_299/mpegts
+#EXTINF:-1,Stream 304
+http://185.9.2.18/chid_304/mpegts
+#EXTINF:-1,Stream 312
+http://185.9.2.18/chid_312/mpegts
+#EXTINF:-1,Stream 326
+http://185.9.2.18/chid_326/mpegts
+#EXTINF:-1,Stream 327
+http://185.9.2.18/chid_327/mpegts
+#EXTINF:-1,Stream 347
+http://185.9.2.18/chid_347/mpegts
+#EXTINF:-1,Stream 352
+http://185.9.2.18/chid_352/mpegts
+#EXTINF:-1,Stream 363
+http://185.9.2.18/chid_363/mpegts
+#EXTINF:-1,Stream 367
+http://185.9.2.18/chid_367/mpegts
+#EXTINF:-1,Stream 372
+http://185.9.2.18/chid_372/mpegts
+#EXTINF:-1,Stream 374
+http://185.9.2.18/chid_374/mpegts
+#EXTINF:-1,Stream 375
+http://185.9.2.18/chid_375/mpegts
+#EXTINF:-1,Stream 376
+http://185.9.2.18/chid_376/mpegts
+#EXTINF:-1,Stream 377
+http://185.9.2.18/chid_377/mpegts
+#EXTINF:-1,Stream 378
+http://185.9.2.18/chid_378/mpegts
+#EXTINF:-1,Stream 379
+http://185.9.2.18/chid_379/mpegts
+#EXTINF:-1,Stream 382
+http://185.9.2.18/chid_382/mpegts
+#EXTINF:-1,Stream 386
+http://185.9.2.18/chid_386/mpegts
+#EXTINF:-1,Stream 387
+http://185.9.2.18/chid_387/mpegts
+#EXTINF:-1,Stream 391
+http://185.9.2.18/chid_391/mpegts
+#EXTINF:-1,Stream 423
+http://185.9.2.18/chid_423/mpegts
+#EXTINF:-1,Stream 455
+http://185.9.2.18/chid_455/mpegts
+#EXTINF:-1,Stream 516
+http://185.9.2.18/chid_516/mpegts
+#EXTINF:-1,Stream 518
+http://185.9.2.18/chid_518/mpegts
+#EXTINF:-1,Stream 521
+http://185.9.2.18/chid_521/mpegts
+#EXTINF:-1,Stream 548
+http://185.9.2.18/chid_548/mpegts
+#EXTINF:-1,Stream 581
+http://185.9.2.18/chid_581/mpegts
+#EXTINF:-1,Stream 597
+http://185.9.2.18/chid_597/mpegts
+#EXTINF:-1,Stream 615
+http://185.9.2.18/chid_615/mpegts
+#EXTINF:-1,Stream 616
+http://185.9.2.18/chid_616/mpegts
+#EXTINF:-1,Stream 652
+http://185.9.2.18/chid_652/mpegts
+#EXTINF:-1,Stream 653
+http://185.9.2.18/chid_653/mpegts
+#EXTINF:-1,Stream 659
+http://185.9.2.18/chid_659/mpegts
+#EXTINF:-1,Stream 679
+http://185.9.2.18/chid_679/mpegts
+#EXTINF:-1,Stream 680
+http://185.9.2.18/chid_680/mpegts
+#EXTINF:-1,Stream 706
+http://185.9.2.18/chid_706/mpegts
+#EXTINF:-1,Stream 723
+http://185.9.2.18/chid_723/mpegts
+#EXTINF:-1,Stream 741
+http://185.9.2.18/chid_741/mpegts
+#EXTINF:-1,Stream 742
+http://185.9.2.18/chid_742/mpegts
+#EXTINF:-1,Stream 743
+http://185.9.2.18/chid_743/mpegts
+#EXTINF:-1,Stream 845
+http://185.9.2.18/chid_845/mpegts
+#EXTINF:-1,Stream 890
+http://185.9.2.18/chid_890/mpegts
+#EXTINF:-1,Stream 926
+http://185.9.2.18/chid_926/mpegts
