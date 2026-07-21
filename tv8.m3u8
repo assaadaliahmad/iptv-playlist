@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1,Stream a02a
+http://149.100.11.252:8000/play/a02a/index.m3u8
+#EXTINF:-1,Stream a03a
+http://149.100.11.252:8000/play/a03a/index.m3u8
+#EXTINF:-1,Stream a05a
+http://149.100.11.252:8000/play/a05a/index.m3u8
+#EXTINF:-1,Stream a06a
+http://149.100.11.252:8000/play/a06a/index.m3u8
+#EXTINF:-1,Stream a03b
+http://149.100.11.252:8000/play/a03b/index.m3u8
+#EXTINF:-1,Stream a02b
+http://149.100.11.252:8000/play/a02b/index.m3u8
+#EXTINF:-1,Stream a01b
+http://149.100.11.252:8000/play/a01b/index.m3u8
+#EXTINF:-1,Stream a05b
+http://149.100.11.252:8000/play/a05b/index.m3u8
+#EXTINF:-1,Stream a04b
+http://149.100.11.252:8000/play/a04b/index.m3u8
+#EXTINF:-1,Stream a06b
+http://149.100.11.252:8000/play/a06b/index.m3u8
+#EXTINF:-1,Stream a02c
+http://149.100.11.252:8000/play/a02c/index.m3u8
+#EXTINF:-1,Stream a03c
+http://149.100.11.252:8000/play/a03c/index.m3u8
+#EXTINF:-1,Stream a04c
+http://149.100.11.252:8000/play/a04c/index.m3u8
+#EXTINF:-1,Stream a05c
+http://149.100.11.252:8000/play/a05c/index.m3u8
+#EXTINF:-1,Stream a02d
+http://149.100.11.252:8000/play/a02d/index.m3u8
+#EXTINF:-1,Stream a03d
+http://149.100.11.252:8000/play/a03d/index.m3u8
+#EXTINF:-1,Stream a04d
+http://149.100.11.252:8000/play/a04d/index.m3u8
+#EXTINF:-1,Stream a01e
+http://149.100.11.252:8000/play/a01e/index.m3u8
+#EXTINF:-1,Stream a02e
+http://149.100.11.252:8000/play/a02e/index.m3u8
+#EXTINF:-1,Stream a03e
+http://149.100.11.252:8000/play/a03e/index.m3u8
+#EXTINF:-1,Stream a04e
+http://149.100.11.252:8000/play/a04e/index.m3u8
+#EXTINF:-1,Stream a05e
+http://149.100.11.252:8000/play/a05e/index.m3u8
+#EXTINF:-1,Stream a01f
+http://149.100.11.252:8000/play/a01f/index.m3u8
+#EXTINF:-1,Stream a02f
+http://149.100.11.252:8000/play/a02f/index.m3u8
+#EXTINF:-1,Stream a03f
+http://149.100.11.252:8000/play/a03f/index.m3u8
+#EXTINF:-1,Stream a04f
+http://149.100.11.252:8000/play/a04f/index.m3u8
+#EXTINF:-1,Stream a01g
+http://149.100.11.252:8000/play/a01g/index.m3u8
+#EXTINF:-1,Stream a02g
+http://149.100.11.252:8000/play/a02g/index.m3u8
+#EXTINF:-1,Stream a04g
+http://149.100.11.252:8000/play/a04g/index.m3u8
+#EXTINF:-1,Stream a01h
+http://149.100.11.252:8000/play/a01h/index.m3u8
+#EXTINF:-1,Stream a02h
+http://149.100.11.252:8000/play/a02h/index.m3u8
+#EXTINF:-1,Stream a03h
+http://149.100.11.252:8000/play/a03h/index.m3u8
+#EXTINF:-1,Stream a04h
+http://149.100.11.252:8000/play/a04h/index.m3u8
+#EXTINF:-1,Stream a05h
+http://149.100.11.252:8000/play/a05h/index.m3u8
+#EXTINF:-1,Stream a01i
+http://149.100.11.252:8000/play/a01i/index.m3u8
+#EXTINF:-1,Stream a03i
+http://149.100.11.252:8000/play/a03i/index.m3u8
+#EXTINF:-1,Stream a04i
+http://149.100.11.252:8000/play/a04i/index.m3u8
+#EXTINF:-1,Stream a05i
+http://149.100.11.252:8000/play/a05i/index.m3u8
+#EXTINF:-1,Stream a01j
+http://149.100.11.252:8000/play/a01j/index.m3u8
+#EXTINF:-1,Stream a05j
+http://149.100.11.252:8000/play/a05j/index.m3u8
+#EXTINF:-1,Stream a04j
+http://149.100.11.252:8000/play/a04j/index.m3u8
+#EXTINF:-1,Stream a01k
+http://149.100.11.252:8000/play/a01k/index.m3u8
+#EXTINF:-1,Stream a02k
+http://149.100.11.252:8000/play/a02k/index.m3u8
+#EXTINF:-1,Stream a03k
+http://149.100.11.252:8000/play/a03k/index.m3u8
+#EXTINF:-1,Stream a04k
+http://149.100.11.252:8000/play/a04k/index.m3u8
+#EXTINF:-1,Stream a02l
+http://149.100.11.252:8000/play/a02l/index.m3u8
+#EXTINF:-1,Stream a03l
+http://149.100.11.252:8000/play/a03l/index.m3u8
+#EXTINF:-1,Stream a04l
+http://149.100.11.252:8000/play/a04l/index.m3u8
+#EXTINF:-1,Stream a00m
+http://149.100.11.252:8000/play/a00m/index.m3u8
+#EXTINF:-1,Stream a01m
+http://149.100.11.252:8000/play/a01m/index.m3u8
+#EXTINF:-1,Stream a02m
+http://149.100.11.252:8000/play/a02m/index.m3u8
+#EXTINF:-1,Stream a04m
+http://149.100.11.252:8000/play/a04m/index.m3u8
+#EXTINF:-1,Stream a05m
+http://149.100.11.252:8000/play/a05m/index.m3u8
+#EXTINF:-1,Stream a00n
+http://149.100.11.252:8000/play/a00n/index.m3u8
+#EXTINF:-1,Stream a02n
+http://149.100.11.252:8000/play/a02n/index.m3u8
+#EXTINF:-1,Stream a03n
+http://149.100.11.252:8000/play/a03n/index.m3u8
+#EXTINF:-1,Stream a04n
+http://149.100.11.252:8000/play/a04n/index.m3u8
+#EXTINF:-1,Stream a00o
+http://149.100.11.252:8000/play/a00o/index.m3u8
+#EXTINF:-1,Stream a01o
+http://149.100.11.252:8000/play/a01o/index.m3u8
+#EXTINF:-1,Stream a02o
+http://149.100.11.252:8000/play/a02o/index.m3u8
+#EXTINF:-1,Stream a03o
+http://149.100.11.252:8000/play/a03o/index.m3u8
+#EXTINF:-1,Stream a04o
+http://149.100.11.252:8000/play/a04o/index.m3u8
+#EXTINF:-1,Stream a05o
+http://149.100.11.252:8000/play/a05o/index.m3u8
+#EXTINF:-1,Stream a00p
+http://149.100.11.252:8000/play/a00p/index.m3u8
+#EXTINF:-1,Stream a01p
+http://149.100.11.252:8000/play/a01p/index.m3u8
+#EXTINF:-1,Stream a02p
+http://149.100.11.252:8000/play/a02p/index.m3u8
+#EXTINF:-1,Stream a03p
+http://149.100.11.252:8000/play/a03p/index.m3u8
+#EXTINF:-1,Stream a04p
+http://149.100.11.252:8000/play/a04p/index.m3u8
+#EXTINF:-1,Stream a05p
+http://149.100.11.252:8000/play/a05p/index.m3u8
+#EXTINF:-1,Stream a00q
+http://149.100.11.252:8000/play/a00q/index.m3u8
+#EXTINF:-1,Stream a01q
+http://149.100.11.252:8000/play/a01q/index.m3u8
+#EXTINF:-1,Stream a04q
+http://149.100.11.252:8000/play/a04q/index.m3u8
+#EXTINF:-1,Stream a05q
+http://149.100.11.252:8000/play/a05q/index.m3u8
+#EXTINF:-1,Stream a00r
+http://149.100.11.252:8000/play/a00r/index.m3u8
+#EXTINF:-1,Stream a01r
+http://149.100.11.252:8000/play/a01r/index.m3u8
+#EXTINF:-1,Stream a02r
+http://149.100.11.252:8000/play/a02r/index.m3u8
+#EXTINF:-1,Stream a04r
+http://149.100.11.252:8000/play/a04r/index.m3u8
+#EXTINF:-1,Stream a00s
+http://149.100.11.252:8000/play/a00s/index.m3u8
+#EXTINF:-1,Stream a02s
+http://149.100.11.252:8000/play/a02s/index.m3u8
+#EXTINF:-1,Stream a04s
+http://149.100.11.252:8000/play/a04s/index.m3u8
+#EXTINF:-1,Stream a01t
+http://149.100.11.252:8000/play/a01t/index.m3u8
+#EXTINF:-1,Stream a02t
+http://149.100.11.252:8000/play/a02t/index.m3u8
+#EXTINF:-1,Stream a00u
+http://149.100.11.252:8000/play/a00u/index.m3u8
+#EXTINF:-1,Stream a02u
+http://149.100.11.252:8000/play/a02u/index.m3u8
+#EXTINF:-1,Stream a03u
+http://149.100.11.252:8000/play/a03u/index.m3u8
+#EXTINF:-1,Stream a04u
+http://149.100.11.252:8000/play/a04u/index.m3u8
+#EXTINF:-1,Stream a05u
+http://149.100.11.252:8000/play/a05u/index.m3u8
+#EXTINF:-1,Stream a00v
+http://149.100.11.252:8000/play/a00v/index.m3u8
+#EXTINF:-1,Stream a02v
+http://149.100.11.252:8000/play/a02v/index.m3u8
+#EXTINF:-1,Stream a03v
+http://149.100.11.252:8000/play/a03v/index.m3u8
+#EXTINF:-1,Stream a04v
+http://149.100.11.252:8000/play/a04v/index.m3u8
+#EXTINF:-1,Stream a05v
+http://149.100.11.252:8000/play/a05v/index.m3u8
+#EXTINF:-1,Stream a00w
+http://149.100.11.252:8000/play/a00w/index.m3u8
+#EXTINF:-1,Stream a01w
+http://149.100.11.252:8000/play/a01w/index.m3u8
+#EXTINF:-1,Stream a02w
+http://149.100.11.252:8000/play/a02w/index.m3u8
+#EXTINF:-1,Stream a03w
+http://149.100.11.252:8000/play/a03w/index.m3u8
+#EXTINF:-1,Stream a05w
+http://149.100.11.252:8000/play/a05w/index.m3u8
+#EXTINF:-1,Stream a01x
+http://149.100.11.252:8000/play/a01x/index.m3u8
+#EXTINF:-1,Stream a03x
+http://149.100.11.252:8000/play/a03x/index.m3u8
+#EXTINF:-1,Stream a05x
+http://149.100.11.252:8000/play/a05x/index.m3u8
+#EXTINF:-1,Stream a00y
+http://149.100.11.252:8000/play/a00y/index.m3u8
+#EXTINF:-1,Stream a01y
+http://149.100.11.252:8000/play/a01y/index.m3u8
+#EXTINF:-1,Stream a02y
+http://149.100.11.252:8000/play/a02y/index.m3u8
+#EXTINF:-1,Stream a03y
+http://149.100.11.252:8000/play/a03y/index.m3u8
+#EXTINF:-1,Stream a05y
+http://149.100.11.252:8000/play/a05y/index.m3u8
+#EXTINF:-1,Stream a01z
+http://149.100.11.252:8000/play/a01z/index.m3u8
+#EXTINF:-1,Stream a02z
+http://149.100.11.252:8000/play/a02z/index.m3u8
+#EXTINF:-1,Stream a05z
+http://149.100.11.252:8000/play/a05z/index.m3u8
