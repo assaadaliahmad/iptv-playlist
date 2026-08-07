@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Nom de la Chaine" tvg-logo="" group-title="TV", Nom de la Chaine [1920x1080]
+#EXTVLCOPT:aspect-ratio=16:9
+Http://4kpro2.com/live/CHKL33990/UHAG33338/219376.ts
