@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NBN" group-title="Flux de Test", NBN (Mac Agent & Referer)
+#EXTVLCOPT:http-referrer=http://41.205.93.154:80/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/NBN/mpeg.ts|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0&Referer=https://somesketchysisterwebsiteofgivemesketchystream.eu/
