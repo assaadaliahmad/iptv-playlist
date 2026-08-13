@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NBN" group-title="Flux de Test", NBN (Mobile Agent)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/NBN/mpeg.ts|User-Agent=Mozilla/5.0 (Linux; Android 13; Mobile)
