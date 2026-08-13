@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="TV", NBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+http://41.205.93.154/NBN/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
