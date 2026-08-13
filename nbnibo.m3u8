@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NBN" group-title="Flux VLC", NBN (VLC Engine)
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:network-caching=2000
+http://41.205.93.154/NBN/mpeg.ts|User-Agent=VLC/3.0.18 LibVLC/3.0.18
