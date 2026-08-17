@@ -1,0 +1,3 @@
+#EXTINF:-1,Channel 5
+#EXTVLCOPT:http-user-agent=itv/9ad2989263/SamaITV-f86d737e-63b0-3223-9ce8-4536c19f8de8-1786184611987161724;
+http://main.samaitv.net:12101/channel5/tracks-v1a1/mono.m3u8?token=9ad2989263
